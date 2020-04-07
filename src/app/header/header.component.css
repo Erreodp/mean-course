@@ -1,12 +1,24 @@
+.header {
+  width: 100%;
+  max-width: 1092;
+}
+
 ul {
   list-style: none;
   padding: 0;
   margin: 0;
+  width: 15%;
+}
+
+span {
+  width: 85%;
+  text-align: center;
 }
 
 a {
   text-decoration: none;
-  color: white;
+  color: whitesmoke;
+  flex: 1 1 auto;
 }
 
 ul {
